@@ -1,3 +1,5 @@
 # hmvc-website
-##### https://github.com/bcit-ci
-##### https://github.com/bcit-ci/CodeIgniter/wiki
+<p>
+https://github.com/bcit-ci<br />
+https://github.com/bcit-ci/CodeIgniter/wiki<br />
+</p>
